@@ -1,0 +1,10 @@
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\BarcodeTest.exe.config
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\BarcodeTest.exe
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\BarcodeTest.pdb
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.csprojAssemblyReference.cache
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.Form1.resources
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.Properties.Resources.resources
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.csproj.GenerateResource.cache
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.csproj.CoreCompileInputs.cache
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.exe
+C:\Users\antia\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\BarcodeTest.pdb
