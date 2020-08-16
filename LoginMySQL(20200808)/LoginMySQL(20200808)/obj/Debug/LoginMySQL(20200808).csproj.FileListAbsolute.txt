@@ -24,3 +24,4 @@ C:\Users\antia\source\repos\ESCO\LoginMySQL(20200808)\LoginMySQL(20200808)\obj\D
 C:\Users\antia\source\repos\ESCO\LoginMySQL(20200808)\LoginMySQL(20200808)\obj\Debug\LoginMySQL(20200808).csproj.CopyComplete
 C:\Users\antia\source\repos\ESCO\LoginMySQL(20200808)\LoginMySQL(20200808)\obj\Debug\LoginMySQL(20200808).exe
 C:\Users\antia\source\repos\ESCO\LoginMySQL(20200808)\LoginMySQL(20200808)\obj\Debug\LoginMySQL(20200808).pdb
+C:\Users\antia\source\repos\ESCO\LoginMySQL(20200808)\LoginMySQL(20200808)\obj\Debug\LoginMySQL_20200808_.Form3.resources

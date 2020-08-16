@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 // https://www.youtube.com/watch?v=P7aaaLvWy_s&t=14s
-//成功
+//成功 20200808  記得將原生MySQL關閉, xampp打開
 
 namespace LoginMySQL_20200808_
 {
@@ -23,6 +23,8 @@ namespace LoginMySQL_20200808_
             InitializeComponent();
         }
 
+
+
         private void button1_Click(object sender, EventArgs e)
         {
             con.Open();
@@ -34,17 +36,21 @@ namespace LoginMySQL_20200808_
             MySqlDataAdapter da = new MySqlDataAdapter(cmd);
             da.Fill(dt);
             i = Convert.ToInt32(dt.Rows.Count.ToString());
+            // 找到符合的列數傳回1, 都不符則傳回0
 
             if (i==0)
             {
+                //MessageBox.Show("row is" + i);
                 label3.Text = "you have entered invalid username and password";
             }
             else
             {
                 this.Hide();
+                //MessageBox.Show("row is" + i);
                 Form2 fm = new Form2();
                 fm.Show();
             }
+          
         }
     }
 }
